@@ -25,7 +25,7 @@ These confusion matrices illustrate the classification performance of the models
       <td align="center"><strong>Multi-Class Classifier</strong></td>  
     </tr>  
     <tr>  
-      <td><img src="images/confusion_matrix_BC_v2_120_particles_q_g.png" width="400"></td>  
+      <td><img src="images/Quark_Gluon_BC.png" width="400"></td>  
       <td><img src="images/confusion_matrix_res_autoencoder.png" width="400"></td>  
     </tr>  
   </table>  
