@@ -1,4 +1,4 @@
-### Jet Tagging with Machine Learning
+## Jet Tagging with Machine Learning
 
 The Jet_Tagging repository is designed to classify particle jets in high-energy physics experiments. It utilizes machine learning techniques to distinguish between different types of jets, such as those originating from quarks or gluons.
 
@@ -10,6 +10,19 @@ Training Pipelines: Provides scripts and configurations to train models on jet d
 
 Evaluation Metrics: Offers tools to assess model performance using standard metrics in particle physics, ensuring reliable and interpretable results.
 
+
+### Results and Visualizations  
+
+Below are key performance visualizations from **binary** and **multi-class classifiers**.  
+
+### Confusion Matrices  
+These confusion matrices illustrate the classification performance of the models.  
+
+#### **Baseline Classifier **  
+![Confusion Matrix BC](images/confusion_matrix_BC_v2_120_particles_q_g.png)  
+
+#### **Autoencoder Model**  
+![Confusion Matrix Autoencoder](images/confusion_matrix_res_autoencoder.png)  
 
 
 ### Directories and Files
