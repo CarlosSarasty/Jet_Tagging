@@ -58,7 +58,7 @@ These confusion matrices illustrate the classification performance of the models
 
 1. Clone the repository:
     ```sh
-    git clone git@github.com:CarlosSarasty/Quark_Gluon_Classifier.git 
+    git clone git@github.com:CarlosSarasty/Jet_Tagging.git
     ```
 2. Navigate to the project directory:
     ```sh
