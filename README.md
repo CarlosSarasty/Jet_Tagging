@@ -30,13 +30,14 @@ These confusion matrices illustrate the classification performance of the models
     </tr>  
   </table>  
 </div>  
+
 ### Directories and Files
 
 - **README.md:** Project documentation and instructions.
 - **config/:** Configuration files for various setups.
 - **data/:** Scripts and utilities for handling datasets.
 - **evaluation/:** Evaluation scripts and results.
-- **figures/:** Generated figures and plots.
+- **images/:** Generated figures and plots.
 - **launch_project.py:** Script to launch the project.
 - **models/:** Directory for model definitions and architectures.
 - **scripts/:** Miscellaneous scripts for different tasks.
