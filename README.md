@@ -1,3 +1,16 @@
+###Jet Tagging with Machine Learning
+
+The Jet_Tagging repository is designed to classify particle jets in high-energy physics experiments. It utilizes machine learning techniques to distinguish between different types of jets, such as those originating from quarks or gluons.
+
+Key Features:
+
+Model Architectures: Includes implementations of various neural network architectures tailored for jet tagging tasks.
+
+Training Pipelines: Provides scripts and configurations to train models on jet datasets, with support for hyperparameter tuning and performance monitoring.
+
+Evaluation Metrics: Offers tools to assess model performance using standard metrics in particle physics, ensuring reliable and interpretable results.
+
+
 
 ### Directories and Files
 
