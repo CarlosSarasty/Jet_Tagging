@@ -18,13 +18,18 @@ Below are key performance visualizations from **binary** and **multi-class class
 ### Confusion Matrices  
 These confusion matrices illustrate the classification performance of the models.  
 
-#### **Baseline Classifier **  
-![Confusion Matrix BC](images/confusion_matrix_BC_v2_120_particles_q_g.png)  
-
-#### **Autoencoder Model**  
-![Confusion Matrix Autoencoder](images/confusion_matrix_res_autoencoder.png)  
-
-
+<div align="center">  
+  <table>  
+    <tr>  
+      <td align="center"><strong>Binary Classifier (Quark vs Gluon)</strong></td>  
+      <td align="center"><strong>Multi-Class Classifier</strong></td>  
+    </tr>  
+    <tr>  
+      <td><img src="images/confusion_matrix_BC_v2_120_particles_q_g.png" width="400"></td>  
+      <td><img src="images/confusion_matrix_res_autoencoder.png" width="400"></td>  
+    </tr>  
+  </table>  
+</div>  
 ### Directories and Files
 
 - **README.md:** Project documentation and instructions.
