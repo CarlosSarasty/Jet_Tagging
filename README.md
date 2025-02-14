@@ -76,8 +76,6 @@ python launch_project.py config/config.yaml
 
 ## Citations  
 
-If you use this project in your research, please cite the following:  
-
 ### JetNet  
 - **JetNet GitHub Repository**: [JetNet](https://github.com/jet-net/JetNet)  
 - **Paper**:  
