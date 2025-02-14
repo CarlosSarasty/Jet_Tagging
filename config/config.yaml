@@ -3,7 +3,7 @@ data:
   test_size: 0.2
   random_state: 42
   data_args:
-    jet_type: ["g", "q"]  # gluon, top quark, and W boson jets
+    jet_type: ["g", "q"]  # gluon, quarks jets
     data_dir: "datasets/jetnet"       # only selecting the kinematic features
     particle_features: ["etarel", "phirel", "ptrel"]
     num_particles: 120                  # NUmber of particles in each jet max 150
